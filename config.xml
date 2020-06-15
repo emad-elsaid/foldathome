@@ -1,0 +1,11 @@
+<config>
+  <user value="EmadElsaid"/> <!-- Enter your user name here -->
+  <team value="241239"/>         <!-- Your team number -->
+  <passkey value=""/>       <!-- 32 hexadecimal characters if provided -->
+
+  <power value="full"/>
+  <gpu value="false"/>      <!-- If true, attempt to autoconfigure GPUs -->
+  <fold-anon value="false"/>
+  <password v="password"/>
+  <web-allow v="0/0"/>
+</config>
